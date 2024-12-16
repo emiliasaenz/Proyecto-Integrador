@@ -16,7 +16,7 @@ Este tutorial explica paso a paso el proceso para ejecutar correctamente el cód
 #### Paso 2: Obtener los datasets requeridos
 
 1. **Reúne los datasets necesarios:**
-   - Verifica los nombres y formatos de los archivos que tu código necesita (por ejemplo: `.csv`, `.xlsx`, etc.).
+   - Verifica los nombres y formatos de los archivos que tu código necesita (`.csv`).
    - Asegúrate de que los archivos estén completos y en buen estado (sin celdas corruptas o datos faltantes críticos).
 
 2. **Ubica los datasets en tu entorno local:**
